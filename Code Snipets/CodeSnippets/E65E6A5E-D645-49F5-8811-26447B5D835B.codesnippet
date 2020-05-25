@@ -3,25 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>xstrong</string>
+	<string>markrewrite</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/// &lt;#Description#&gt;
-@property (nonatomic, strong) &lt;#type#&gt; *&lt;#name#&gt;;</string>
+	<string>#pragma mark - Rewrite - Begin
+
+&lt;#method#&gt;
+
+#pragma mark Rewrite - End</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4351B0DF-4AFC-4903-BEE6-0E787B3BB27F</string>
+	<string>E65E6A5E-D645-49F5-8811-26447B5D835B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>xstrong</string>
+	<string>markrewrite</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>xstrong</string>
+	<string>markrewrite</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
